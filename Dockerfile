@@ -1,6 +1,6 @@
 # forked from https://gist.github.com/jpetazzo/5494158
 
-FROM	ubuntu:14:10
+FROM	ubuntu:14.10
 MAINTAINER	kload "kload@kload.fr"
 
 # prevent apt from starting postgres right after the installation
